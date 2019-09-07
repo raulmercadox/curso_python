@@ -12,6 +12,9 @@ def isIn(char, aStr):
     
     returns: True if char is in aStr; False otherwise
     '''
+    if aStr == '':
+        return False
+        
     middle = len(aStr) // 2
     
     if char == aStr[middle]:

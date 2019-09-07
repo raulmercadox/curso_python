@@ -5,9 +5,9 @@ Created on Wed Jul  3 12:49:40 2019
 @author: ezmerra
 """
 
-balance = 50000
+balance = 484
 annualInterestRate = 0.2
-monthlyPaymentRate = 0.00
+monthlyPaymentRate = 0.04
 
 monthNumber = 0
 
